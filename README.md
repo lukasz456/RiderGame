@@ -1,1 +1,1 @@
-# RiderGame
+# Gui C++ implementation of the Rider game using SDL library. Code provided for the university project with some pieces predefined and ready to use. The goal of the game is to avoid cars on the highway as well as destroying them. The bigger the distance taken, the better the result.
